@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Copa America 2019",
+    "icon": "",
+    "version": "1.0.0",
+    "slug": "football1",
+    "sdkVersion": "32.0.0",
+    "android": {
+      "package": "com.bigfiveplus.copamerica2019"
+    }
+  }
+}
